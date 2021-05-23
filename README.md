@@ -3,3 +3,5 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ELDRAZI-17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /></p>
 
 <p>Please follow me <a href="https://scratch.mit.edu/users/ELDRAZI-17/">on Scratch</a>.</p>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ELDRAZI-17/ELDRAZI-17)

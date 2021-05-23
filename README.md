@@ -4,4 +4,4 @@
 
 <p>Please follow me <a href="https://scratch.mit.edu/users/ELDRAZI-17/">on Scratch</a>.</p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ELDRAZI-17/ELDRAZI-17)
+<p align="left"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/ELDRAZI-17e=true" /></p>

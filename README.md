@@ -4,5 +4,5 @@
 
 <p>Please follow me <a href="https://scratch.mit.edu/users/ELDRAZI-17/">on Scratch</a>.</p>
 
-<p align="left"><a href="http://www.azote.org"> <img src="http://www.azote.org/pub/azote_468_60_blanc.gif "/>
-</a></p>
+<a href='http://www.azote.org/' title='Nom de domaine' target='_blank'><img
+src='http://www.azote.org/pub/azote_468_60_blanc.gif ' alt='Nom de domaine' border="0" /></a>
